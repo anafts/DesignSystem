@@ -12,10 +12,7 @@ export function Button({  children, asChild }: ButtonProps ) {
     const Comp = asChild ? Slot : 'button';
     return (
         <Comp className={clsx (
-            'py-4 px-12 bg-cyan-500 rounded font-semibold',
-            {
-                
-            }
+            'py-4 px-3 bg-cyan-500 rounded font-semibold text-black text-sm w-full transition-colors hover:bg-cyan-300 focus:ring-2 ring-white ',
         )} > 
         {children} 
         </Comp>
