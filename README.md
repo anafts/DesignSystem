@@ -16,8 +16,6 @@ Design system do figma ao código, criando ao longo do evento Ignite Lab ofereci
 
 ## 🚀 Deploy:
 
-Se deseja acessar o projeto [clique aqui]()
-
 Se deseja acessar o figma do projeto [clique aqui](https://www.figma.com/file/YAv3cptZDWBParSUs9XEdz/Design-system?node-id=0%3A1 
 )
 
@@ -65,7 +63,7 @@ $ npm run storybook
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+
 
 No projeto, além das tecnologias citadas, também foi usado o [Vite](https://vitejs.dev/), [Storybook](https://storybook.js.org/), [Radix](https://www.radix-ui.com/), [Postcss](https://postcss.org/). 
 
